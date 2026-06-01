@@ -11,7 +11,7 @@ import heroBanner from "./assets/hero-banner.png";
 import corolla from "./assets/corolla.png";
 import prius from "./assets/prius.png";
 import logoShowcase from "./assets/logo-showcase.png";
-import rearWindow from "./assets/rear-window.png";
+
 
 const T = {
   pl: {
