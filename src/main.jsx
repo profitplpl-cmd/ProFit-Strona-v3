@@ -77,8 +77,7 @@ function App() {
   const cars = [
     { img: prius, title: "Toyota Prius+", desc: "Ekonomiczny i przestronny samochód do pracy Uber/Bolt." },
     { img: corolla, title: "Toyota Corolla Hybrid", desc: "Nowoczesna hybryda, komfortowa i oszczędna." },
-    { img: rearWindow, title: "Różne auta hybrydowe", desc: "Dostępność zależna od aktualnej floty." },
-  ];
+   
 
   return (
     <div className="site">
